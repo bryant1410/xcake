@@ -1,4 +1,4 @@
-#Hooks
+# Hooks
 
 Xcake allows you to run actions for certain events using Hooks. At the moment
 there is only one hook supported "after_save" which is called after a project is
